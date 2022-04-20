@@ -1,2 +1,2 @@
-# NLP_spaCy_1_2
+# NLP_spaCy
 ## spaCy and its Linguistic Annotations
